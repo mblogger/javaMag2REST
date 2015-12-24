@@ -1,0 +1,11 @@
+{
+  "category": {
+    "id": 921,
+    "parentId": 594,
+    "name": "921string",
+    "isActive": true,
+    "position": 0,
+    "level": 0,
+    "includeInMenu": true
+  }
+}
