@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_20"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/downloaded/javax.ws.rs-api-2.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/downloaded/jersey-client-1.19.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/downloaded/json-simple-1.1.1.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
